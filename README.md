@@ -1,4 +1,4 @@
-### Hi 👋
+## Hi 👋
 
 I'm a Computer Science undergraduate student at Federal University of Campina Grande.
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
