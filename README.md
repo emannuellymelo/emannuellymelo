@@ -4,7 +4,7 @@ I'm a Computer Science undergraduate student at Federal University of Campina Gr
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
 - 🔎 Know more about me on my [portfolio](https://emannuellymelo.github.io/)
 
-## How to reach me:
+## Contact me:
 
 - ✉ E-mail: emannuelly.melo@ccc.ufcg.edu.br
 <!--
