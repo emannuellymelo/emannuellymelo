@@ -1,10 +1,10 @@
 ## Hi 👋
 
 I'm a Computer Science undergraduate student at Federal University of Campina Grande.
-- 📝 Integrat of the Computer Science Tutorial Education Program (PET Computação).
-- 💡 Front-end apprentice of PyLadies Paraíba [website](https://github.com/pyladiespb-org/pysite/tree/master/frontend)
+- 📝 Integrant of the Computer Science Tutorial Education Program (PET Computação).
+- 💡 Front-end apprentice of PyLadies Paraíba [website](https://github.com/pyladiespb-org/pysite/tree/master/frontend).
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
-- 🔎 Know more about me on my [portfolio](https://emannuellymelo.github.io/)
+- 🔎 Know more about me on my [portfolio](https://emannuellymelo.github.io/).
 
 ## Contact me:
 
