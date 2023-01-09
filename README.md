@@ -17,9 +17,10 @@ I'm a Computer Science undergraduate student at Federal University of Campina Gr
   <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="https://live.staticflickr.com/65535/52617253877_441b4c0d4a_k.jpg">
 </div>
 
-# Contact me
+## Contact me
 <a href = "mailto:emannuelly.melo@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emannuellymelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <!-- ## Hi 👋
 
 I'm a Computer Science undergraduate student at Federal University of Campina Grande.
